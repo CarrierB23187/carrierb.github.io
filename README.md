@@ -2,7 +2,7 @@
 
 Personal portfolio website hosted on GitHub Pages.
 
-**Live site:** [carrierb.github.io](https://carrierb.github.io)
+**Live site:** [carrierb.github.io](https://carrierb23187.github.io/)
 
 ## Tech Stack
 
